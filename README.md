@@ -1,10 +1,16 @@
 # Data-Science-portfolio
 
 1. Classificator for inovation idears from hackathon "Digital transformation leaders hackathon".
+   This work based on cloud of words and computing distances between words.
+   It provide good scalability and best accuracy in small datasets.
    
+   Linck: (https://github.com/MatveyLebedev/Nlp_fastWin).
 
 2. News selection systems for the profile feed from hackathon "MORE.tech 4.0".
+   The work uses dictionaries of professional and general vocabulary, analysis of the frequency of words to select news for an accountant.
+   <img width="572" alt="image" src="https://user-images.githubusercontent.com/70165837/205018417-6aa89451-4c8b-4e19-a35b-4daa3cdc7eaa.png">
    
+   Linck: (https://github.com/MatveyLebedev/more_tech_enthusiast-agency).
 
 3. Detection function arguments from description for generation advisez for programmer.
    This work based on self attention and RNN technologies.
