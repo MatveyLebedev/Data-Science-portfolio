@@ -1,1 +1,1 @@
-# Data-Scinse-portfolio
+# Data-Science-portfolio
