@@ -22,11 +22,13 @@
 
    Linck: (https://colab.research.google.com/drive/13vLhh4v_g3v16TS0EhHzA_dhTJeulufj#scrollTo=9sFvlZBk-me4).
    
-4. Robodog with computer wision.
+4. Robot-dog with computer wision.
 
    <img width="500" alt="image" src="https://user-images.githubusercontent.com/70165837/205443950-6e49ce00-a2f2-4806-b353-e48200fd9925.png">
+   
+   Linck: (https://github.com/MatveyLebedev/Simple_robodog).
 
-5. Cash log analysis.
+5. Analysis and visualization of client behavior based on information obtained from cash logs.
 
    <img width="500" alt="image" src="https://user-images.githubusercontent.com/70165837/205444098-e7118533-8458-4c5a-8486-2196dc98d102.png">
    
