@@ -17,7 +17,7 @@
    
 3. Comments classifier and EDA for comments from social networks. Based on BERT, TF-IDF and CatBoost:
    
-   ![download](https://user-images.githubusercontent.com/70165837/235621296-8ba45588-9ca8-4aab-84bf-045b844f6319.png)
+   <img width="500" alt="image" src="https://user-images.githubusercontent.com/70165837/235621296-8ba45588-9ca8-4aab-84bf-045b844f6319.png">
    
    Linck: (https://github.com/MatveyLebedev/Comments_classifier)
 
