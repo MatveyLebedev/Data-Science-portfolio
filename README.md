@@ -1,6 +1,6 @@
 # Data-Science-portfolio
 
-1. Predicting heating problems for homes. Powered by catboost. Uses home and heating data. Designed for LTC 2024.
+1. Predicting heating problems for homes. Powered by catboost. Uses home and heating data. Designed for hackathon "Digital transformation leaders hackathon 2024".
 
    <img width="500" alt="Screenshot 2024-09-04 at 23 33 59" src="https://github.com/user-attachments/assets/47b29141-7a61-4f13-9bd7-82c190e24df9">
 
