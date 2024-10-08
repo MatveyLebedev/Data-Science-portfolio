@@ -6,7 +6,7 @@
 
    Linck: (https://github.com/xEnotWhyNotx/GigaWin)
 
-3. Classificator for inovation idears from hackathon "Digital transformation leaders hackathon".
+3. Classificator for inovation idears from hackathon "Digital transformation leaders hackathon 2023".
    This work based on cloud of words and computing distances between words.
    It provide good scalability and best accuracy in small datasets.
    
